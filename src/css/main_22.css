@@ -1,0 +1,108 @@
+
+
+
+.visualle-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    border: 0;
+    clip: rect(0 0 0 0 );
+}
+
+
+.katalog {
+    background: linear-gradient(270deg, #4D5EF6 0%, #F64D4D 100%);
+}
+
+.button_kirish {
+    border-radius: 20px;
+    background: linear-gradient(270deg, rgba(77, 94, 246, 0.2) 0%, rgba(246, 77, 77, 0.2) 100%);
+}
+.button_kirish:active {
+    color: white;
+    background: linear-gradient(270deg, #F64D4D 0%, #4D5EF6 100%);
+    
+}
+
+
+
+.carusel-img {
+    transition: all 0.5s ease;
+    display: flex;
+    /* transform: translateX(-1230px); */
+}
+
+.bxs-chevron-left {
+    background: linear-gradient(270deg, rgba(77, 94, 246, 0.2) 0%, rgba(246, 77, 77, 0.2) 100%);
+}
+.bxs-chevron-right {
+    margin-top: -220px;
+    margin-left: 1250px;
+    background: linear-gradient(270deg, rgba(77, 94, 246, 0.2) 0%, rgba(246, 77, 77, 0.2) 100%);
+}
+
+.bxs-chevron-left:active {
+    color: white;
+    background: linear-gradient(270deg, #4D5EF6 0%, #F64D4D 100%);
+}
+.bxs-chevron-right:active {
+    color: white;
+    background: linear-gradient(270deg, #4D5EF6 0%, #F64D4D 100%);
+}
+
+
+main section .batafsil:active {
+    background: linear-gradient(270deg, #828ce659 0%, #57b3e970 100%);
+}
+
+main section .kop-sotilgan .sotib-olish:active {
+    background: linear-gradient(270deg, #828ce6 0%, #57b3e9 100%);
+}
+main section .koproq-korish:active {
+    background: linear-gradient(270deg, #828ce659 0%, #57b3e970 100%);
+}
+
+
+.carusel-img-2 {
+    transition: all 0.5s ease;
+    display: flex;
+    /* transform: translateX(-1230px); */
+}
+
+
+
+.carusel-img-3 {
+    transition: all 0.5s ease;
+    display: flex;
+    /* transform: translateX(-1230px); */
+}
+
+
+.footer-block {
+    background: linear-gradient(270deg, rgba(77, 94, 246, 0.2) 0%, rgba(246, 77, 77, 0.2) 100%);
+}
+
+ul li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ul li h4 {
+    font-weight: 600;
+}
+ul li p {
+    font-weight: 300;
+}
+
+.container .linia {
+    margin-top: 26px;
+    margin-bottom: 26px;
+    border: 1px solid #8357e947;
+}
+
+.container .Powered {
+    font-weight: 300;
+}
